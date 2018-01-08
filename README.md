@@ -2,7 +2,7 @@
 
 Requerimientos
 
-* Manejo de cuenta: info de pago, renovar, quitar, consultar, status, manejo de notificationes, *
+* Manejo de cuenta: info de pago, renovar, quitar, consultar, status, manejo de notificationes, buscando tal producto, *
 * Admin
 * Login: creacion de cuenta, preferencias, *
 * Busqueda
@@ -11,4 +11,6 @@ Requerimientos
 * Paquetes: top N, numero de caracteres, numero de imagenes, dimensiones, pagina principal, duracion
 * Landing basado en ubicacion
 * Notificaciones: email, recordatorio de expiracion (con click para rennovar), aprobado o no, pago hecho
-
+* Telemetry
+* Facturas y pagos
+* Social: cuentas en Twitter, Facebook
