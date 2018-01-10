@@ -1,0 +1,65 @@
+* Usuario
+	- Id
+	- Nombre
+	- Telefono
+	- Email
+	- Estado
+	- Ciudad
+	- CodigoPostal
+	- ContactoPreferido
+	- Token
+
+* Interes
+	- IdUsuario
+	- Categoria
+	- Estado
+	- Ciudad
+
+* CategoriaPrincipal
+	- Id
+	- Nombre
+
+* SubCategoria
+	- Id
+	- Nombre
+	- CategoriaPadreId
+
+* Paquete
+	- Id
+	- Nombre
+	- Descripcion
+	- NumeroDeImagenes
+	- CaracteresEnDescripcion
+	- ExpiraEn
+
+* Ad
+	- Id
+	- IdUsuario
+	- TipoDePaquete
+	- Titulo
+	- Descripcion
+	- Categoria
+	- SubCategoria
+	- Url
+	- Estado
+	- Ciudad
+	- Colonia
+	- Fecha
+	- StatusId
+
+* Imagen
+	- Id
+	- IdAd
+	- Url
+	- Tamano
+	- Dimension
+
+* StatusAd
+	- Id
+	- Status
+
+* Pago
+	- Id
+	- IdAd
+	- Monto
+	- FechaProcesamiento
