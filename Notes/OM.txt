@@ -63,3 +63,8 @@
 	- IdAd
 	- Monto
 	- FechaProcesamiento
+	
+* Favorito
+	- Id
+	- IdUsuario
+	- IdAd

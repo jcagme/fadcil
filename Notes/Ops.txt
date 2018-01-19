@@ -1,0 +1,14 @@
+POST Perfil
+PUT Perfil
+GET Perfil
+POST Interes
+DELETE Interes
+POST Ad
+PUT AdMetadata
+DELETE Ad
+POST Pago
+GET Ads
+GET Ads by filters
+GET Historial
+POST Favorito
+DELETE Favorito
